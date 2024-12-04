@@ -1,11 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_01", "Day_01\Day_01.csproj", "{CB67997D-C011-4B55-82FD-C71172BF5B58}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{7A44C74E-D343-4C3A-BB91-AAC4B0FB882D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27BBFDCA-3B88-45EE-85B1-233298380A3A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_02", "Day_02\Day_02.csproj", "{DB90A331-AB07-4530-912D-C5EEE787FD21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +28,10 @@ Global
 		{7A44C74E-D343-4C3A-BB91-AAC4B0FB882D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A44C74E-D343-4C3A-BB91-AAC4B0FB882D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A44C74E-D343-4C3A-BB91-AAC4B0FB882D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB90A331-AB07-4530-912D-C5EEE787FD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB90A331-AB07-4530-912D-C5EEE787FD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB90A331-AB07-4530-912D-C5EEE787FD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB90A331-AB07-4530-912D-C5EEE787FD21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
